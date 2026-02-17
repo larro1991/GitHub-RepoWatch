@@ -155,6 +155,14 @@ On the first run, all deltas are zero since there is no previous baseline.
 - (Optional) SMTP server access for email delivery
 - (Optional) Administrator rights for creating scheduled tasks
 
+## Feedback & Contributions
+
+Found a bug? Have a feature idea? Want to improve something?
+
+- **GitHub Issues**: [Open an issue](https://github.com/larro1991/GitHub-RepoWatch/issues) for bugs, feature requests, or questions
+- **Pull Requests**: Contributions are welcome — fork, branch, and submit a PR
+- **All Projects**: See everything at [larro1991.github.io](https://larro1991.github.io)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
